@@ -20,7 +20,7 @@ variables:
   #vmImageName: 'ubuntu-latest'
 
   Pool:
-    -name: azure-devops-github-acr-aks-app1
+    name: azure-devops-github-acr-aks-app1
 
 stages:
 - stage: Build
